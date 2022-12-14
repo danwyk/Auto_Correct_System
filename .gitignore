@@ -1,0 +1,12 @@
+env/
+stanford-corenlp-4.5.1/
+
+autocorrect.py
+Collins Scrabble Words (2019).txt
+QWERTY distances.txt
+subtlex_words.txt
+wordfreq.txt
+
+Class 7.zip
+stanford-corenlp-4.5.1.zip
+
