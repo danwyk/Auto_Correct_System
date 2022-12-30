@@ -1,5 +1,7 @@
 # Auto-correction system for English sentence
 
+---
+
 ### Background
 <b>LING 193 - F22<br>
 This is the my implementation of the auto-correct system<br></b><br>
