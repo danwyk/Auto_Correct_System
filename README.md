@@ -17,5 +17,20 @@ This system will pinpoint misspelled word in a given sentence and then replace i
 
 ---
 
+### Examples:
+> s1 = "The manager hired ths employees"\
+> s2 = "John will not buy anu tomatoes"
+
+
+#### Min Distance + Frequency Result:
+> s1 = "The manager hired **this** employees"\
+> s2 = "John will not buy **an** tomatoes"
+
+#### Determiner & Noun Phrase Result:
+> s1 = "The manager hired **the** employees"\
+> s2 = "John will not buy **any** tomatoes"
+
+---
+
 ### Shortcoming
 The current system can only spot misspelled words. In other words, if the misspelled word happen to be another word in the dictionary, this system will not able to correct it. Future improvements includes pinpoint and correct the logical mistakes like we just mentioned.
