@@ -30,6 +30,7 @@ This system will pinpoint misspelled word in a given sentence and then replace i
 > s1 = "The manager hired **the** employees"\
 > s2 = "John will not buy **any** tomatoes"
 
+---
 
 ### Example2:
 > It is widelly taugt that parts of speech are definned in terms of sinple defimitions. For example, "a noun is a person place or thinge." But in reality, simple defintions like that are not very usefful. For exampe, is it not true that everthing is a "thing"? Then in wghat sense can we deffine nouns as "thngs"? We need moree rigorouss teckneques to define these notioms.
