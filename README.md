@@ -17,7 +17,7 @@ This system will pinpoint misspelled word in a given sentence and then replace i
 
 ---
 
-### Examples:
+### Example1:
 > s1 = "The manager hired ths employees"\
 > s2 = "John will not buy anu tomatoes"
 
@@ -29,6 +29,13 @@ This system will pinpoint misspelled word in a given sentence and then replace i
 #### Determiner & Noun Phrase Result:
 > s1 = "The manager hired **the** employees"\
 > s2 = "John will not buy **any** tomatoes"
+
+
+### Example2:
+> It is widelly taugt that parts of speech are definned in terms of sinple defimitions. For example, "a noun is a person place or thinge." But in reality, simple defintions like that are not very usefful. For exampe, is it not true that everthing is a "thing"? Then in wghat sense can we deffine nouns as "thngs"? We need moree rigorouss teckneques to define these notioms.
+
+#### Final Result:
+> It is widely taught that parts of speech are defined in terms of simple definitions. For example, "any noun is any person place or thing ." But in reality, simple definitions like that are not very useful. For example, is it not true that everything is any "thing"? Then in what sense can we define nouns as "things"? We need more rigorous techniques to define these notions.
 
 ---
 
