@@ -4,8 +4,10 @@
 
 ### Background
 **LING 193 - F22**   
-**This is the my implementation of the auto-correct system**   
+> This is the my implementation of the auto-correct system   
 > Credit to Daniel Wang(danwyk@umich.edu)
+
+<br>
 
 Big shout out to my instructor - ***Andrew McInnerney***   
 He led me through every linguistic concepts I learned in Ling 193.   
