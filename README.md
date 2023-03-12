@@ -3,17 +3,18 @@
 ---
 
 ### Background
-<b>LING 193 - F22<br>
-This is the my implementation of the auto-correct system<br></b><br>
+**LING 193 - F22**   
+**This is the my implementation of the auto-correct system**   
+> Credit to Daniel Wang(danwyk@umich.edu)
 
-Big shout out to my instructor - ***Andrew McInnerney***<br>
-He led me through every linguistic concepts I learned in Ling 193.<br>
-**"Download dictionary"** and **"1st Layer of Correction: Minimum edit distance"** are modefied based on the code from Andrew.
+Big shout out to my instructor - ***Andrew McInnerney***   
+He led me through every linguistic concepts I learned in Ling 193.   
+**"Download dictionary"** and **"1st Layer of Correction: Minimum edit distance"** are modefied based on the code from Andrew.   
 
 ---
 
 ### About this project
-This system will pinpoint misspelled word in a given sentence and then replace it with the most appropriate word from a given dictionary based on “Minimum edit distance”, “Word frequency“, and “Bigrams frequency”.
+This system will pinpoint misspelled word in a given sentence and then replace it with the most appropriate word from a given dictionary based on “Minimum edit distance”, “Word frequency“, and “Bigrams frequency”.   
 
 ---
 
